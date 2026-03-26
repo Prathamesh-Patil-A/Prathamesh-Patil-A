@@ -22,7 +22,7 @@ I am a first-year **B.Tech student at VIT Bhopal University** specializing in **
 ### 🌐 Connect with Me
 - **LinkedIn**: [Prathamesh Patil](www.linkedin.com/in/prathamesh-patil-b09211382)
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/10a6d5c0-ad97-4c19-a9a8-6328571e4943" />
-- **Kaggle**: [[Prathamesh Patil](https://www.kaggle.com/peaxe03)
+- **Kaggle**: [Prathamesh Patil](https://www.kaggle.com/peaxe03)
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/38337420-9c73-4775-afb1-326455b786b0" />
 
 
