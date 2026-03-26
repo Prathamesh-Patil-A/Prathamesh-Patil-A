@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f3460d2a-bb33-494e-be88-ff6f53e74956" /># Hi there, I'm Prathamesh👋 
+# Hi there, I'm Prathamesh👋 
 
 I am a first-year **B.Tech student at VIT Bhopal University** specializing in **Mechanical Core**. I am passionate about leveraging technology to solve real-world problems and exploring the intersection of AI and creative digital arts.
 
