@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=800&height=100&lines=PRATHAM;MECHANICAL+ENGINEER;SPACE+ENTHUSIAST;WEB+DEVELOPER" alt="Typing SVG" />
 </h1>
 
-<img width="2500" height="500" alt="Gitclub" src="https://github.com/user-attachments/assets/1bebe2a6-4f59-4064-a26c-24b801ad0564" />
+---
 
-
+<img width="2500" height="500" alt="GITTTHUBB" src="https://github.com/user-attachments/assets/f3d6a077-b15d-4ff4-9c2c-bb9c8d766cc8" />
 
 
 
